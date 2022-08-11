@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/uxe7l94d4j9l9pxa?svg=true)](https://ci.appveyor.com/project/Oleg-OMON/env-homework)
